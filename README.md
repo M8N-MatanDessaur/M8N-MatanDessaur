@@ -1,7 +1,7 @@
 # Hey there, I'm Matan 👋🏼  
 
 [![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-007396?style=for-the-badge&logo=javascript&logoColor=white)](https://matandessaur.me)
-[![Business Owner](https://img.shields.io/badge/Business_Owner-4CAF50?style=for-the-badge)](https://webcity.dev)
+[![Business Owner](https://img.shields.io/badge/Business_Owner-c07ffd?style=for-the-badge)](https://webcity.dev)
 
 ## About Me
 
@@ -16,7 +16,7 @@ When I'm not coding or designing, you'll find me capturing moments through my le
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m8n-matandessaur)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://matandessaur.me)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-5d70f6?style=for-the-badge)](https://matandessaur.me)
 
 ---
 
