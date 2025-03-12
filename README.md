@@ -1,6 +1,6 @@
 # Hey there, I'm Matan 👋🏼  
 
-[![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-007396?style=for-the-badge&logo=javascript&logoColor=white)](https://matandessaur.me)
+[![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-007396?style=for-the-badge)](https://matandessaur.me)
 [![Business Owner](https://img.shields.io/badge/Business_Owner-c07ffd?style=for-the-badge)](https://webcity.dev)
 
 ## About Me
