@@ -1,19 +1,13 @@
 # Hey there, I'm Matan 👋🏼  
 
-[![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-007396?style=for-the-badge)](https://matandessaur.me)
-[![Business Owner](https://img.shields.io/badge/Business_Owner-c07ffd?style=for-the-badge)](https://webcity.dev)
+[![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-6974ef?style=for-the-badge)](https://matandessaur.me)
+[![Business Owner](https://img.shields.io/badge/Business_Owner-e03a9c?style=for-the-badge)](https://webcity.dev)
 
 ## About Me
 
-### Hey there, I'm Matan! 👋🏼  
+I am a motivated <span style="color:#5d70f6"><b>full stack developer</b></span>, <span style="color:#5d70f6"><b>UI/UX visionary</b></span>, and <span style="color:#5d70f6"><b>business owner</b></span> with a fling for <span style="color:#5d70f6"><b>Photography</b></span> and <span style="color:#5d70f6"><b>poetry</b></span>, creating innovative apps and visual stories. Driven by a profound <span style="color:#5d70f6"><i>passion</i></span> and ever-expanding <span style="color:#5d70f6"><i>curiosity</i></span>, I constantly seek new challenges and opportunities to grow.
 
-I’m a **Lead Developer** with deep **full-stack expertise** and a passion for **building scalable web applications** and **innovative solutions**. As a **UI/UX visionary** and **business owner**, I constantly push boundaries to deliver **modern web experiences**.  
-
-With a strong focus on *Agile leadership*, I thrive in dynamic environments, driving teams to craft seamless user experiences. I merge *technical expertise* with *creative vision*, ensuring that every application I develop is both **visually stunning** and **functionally robust**.  
-
-Always seeking **new challenges**, my work is fueled by a commitment to *excellence* and a desire to create meaningful impact through **technology, design, and innovation**. 🚀  
-
-
+With an eye for detail, I blend <span style="color:#5d70f6"><i>creativity</i></span> and <span style="color:#5d70f6"><i>technical expertise</i></span> to craft visually stunning and functional web applications. My work is fueled by a commitment to <span style="color:#5d70f6"><i>excellence</i></span> and a desire to make a positive impact through technology and design.
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m8n-matandessaur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
@@ -23,8 +17,8 @@ When I'm not coding or designing, you'll find me capturing moments through my le
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m8n-matandessaur)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-5d70f6?style=for-the-badge)](https://matandessaur.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6974ef?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m8n-matandessaur)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6974ef?style=for-the-badge)](https://matandessaur.me)
 
 ---
 
