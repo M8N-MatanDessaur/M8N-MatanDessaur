@@ -13,7 +13,7 @@ With an eye for detail, I blend <span style="color:#5d70f6"><i>creativity</i></s
 
 ## The Other Me
 
-When I'm not coding or designing, you'll find me capturing moments through my lens, expressing thoughts through poetry, whipping up culunary wonders, traveling the world. These creative pursuits fuel my inspiration and bring a unique perspective to my technical work.
+When I'm not coding or designing, you'll find me capturing moments through my lens, expressing thoughts through poetry, whipping up culunary wonders or traveling the world. These creative pursuits fuel my inspiration and bring a unique perspective to my technical work.
 
 ## Let's Connect
 
