@@ -9,9 +9,11 @@ I am a motivated <span style="color:#5d70f6"><b>full stack developer</b></span>,
 
 With an eye for detail, I blend <span style="color:#5d70f6"><i>creativity</i></span> and <span style="color:#5d70f6"><i>technical expertise</i></span> to craft visually stunning and functional web applications. My work is fueled by a commitment to <span style="color:#5d70f6"><i>excellence</i></span> and a desire to make a positive impact through technology and design.
 
-## Photography & Poetry
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m8n-matandessaur)](https://github.com/anuraghazra/github-readme-stats)
 
-When I'm not coding or designing, you'll find me capturing moments through my lens or expressing thoughts through poetry. These creative pursuits fuel my inspiration and bring a unique perspective to my technical work.
+## The Other Me
+
+When I'm not coding or designing, you'll find me capturing moments through my lens, expressing thoughts through poetry, whipping up culunary wonders, traveling the world. These creative pursuits fuel my inspiration and bring a unique perspective to my technical work.
 
 ## Let's Connect
 
