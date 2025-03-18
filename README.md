@@ -13,9 +13,6 @@ With a strong focus on *Agile leadership*, I thrive in dynamic environments, dri
 
 Always seeking **new challenges**, my work is fueled by a commitment to *excellence* and a desire to create meaningful impact through **technology, design, and innovation**. 🚀  
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m8n-matandessaur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 ## The Other Me
 
 When I'm not coding or designing, you'll find me capturing moments through my lens, expressing thoughts through poetry, whipping up culinary wonders or traveling the world. These creative pursuits fuel my inspiration and bring a unique perspective to my technical work.
